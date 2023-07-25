@@ -35,4 +35,3 @@ async def pilih(ctx):
             break
 
 
-bot.run("MTExNzc1ODg0NzE4NTA1OTkxMA.GAVefI.v81foX5HmvAMGN_X2TFJyhOVeF8oOrBJgOag9A")
