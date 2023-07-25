@@ -33,5 +33,5 @@ async def pilih(ctx):
         else :
             await ctx.send("entri tidak ada maka program berhenti") 
             break
-
+bot.run("Token")
 
